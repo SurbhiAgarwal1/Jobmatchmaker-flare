@@ -4,6 +4,7 @@
 **0x322FF41dbdf60757018bB8CAee932571CED63bBB**  
 View on Explorer:  
 https://coston2-explorer.flare.network/address/0x322FF41dbdf60757018bB8CAee932571CED63bBB
+<img width="1918" height="843" alt="Screenshot 2025-11-28 134811" src="https://github.com/user-attachments/assets/73147ca1-a547-4e4a-b535-447dd875c2a8" />
 
 ---
 
