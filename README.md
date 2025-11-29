@@ -92,15 +92,4 @@ No platform takes a cut—payments go directly from employer to worker.
 This Job Marketplace DApp is a complete decentralized solution enabling transparent job posting, applications, hiring, and escrow management—all powered by blockchain.  
 It demonstrates a real-world use case of Web3: trustless work relationships.
 
----
-
-If you want, I can also generate:
-
-✅ UI with job lists  
-✅ Fetch all jobs  
-✅ Admin dashboard  
-✅ Resume upload with IPFS  
-
-Just tell me!
-
 
