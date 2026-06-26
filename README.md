@@ -14,7 +14,7 @@ This is a decentralized **Job Marketplace** built on the **Flare Network**.
 It enables employers and job seekers to interact through a trustless blockchain-based system.
 
 Employers can post jobs, applicants can apply, and employers can hire directly on-chain.  
-Funds are held in escrow until the job is completed, ensuring security for both parties.
+Funds are held in escrow until the job is completed, ensuring security  for both parties.
 
 ---
 
